@@ -8,9 +8,6 @@ Steps to follow:
 
 1. Use the command git clone https://github.com/mahika34/WT-project-3rd-sem.git
 2. cd WT-project-3rd-sem
-3. Run the c file using:
-gcc final.c
-./a.exe
-4. Follow the instructions and and book your next travel destination at one go without any hassle!
+3. Open the "home_page.html" file from your preferred browser and book your next travel destination at once without any hassle!
    
 Feel free to post any issue/suggestion whenever you like!
